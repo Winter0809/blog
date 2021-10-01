@@ -18,11 +18,11 @@ isShowComments: false
 
 ## 一句话
 
-- Self-discipline scores freedom   越自律,越自由!
+- Self-discipline scores freedom  &nbsp; 越自律,越自由!
 
 ## 关于我
 
-- 我曾经跨过山和大海,也穿过人山人海,后来差点饿死了,迫不得已转行做了Java。
+- 我曾经跨过山和大海,也穿过人山人海,后来差点饿死了,迫不得已做了Java。
 
 
 ## 其他
