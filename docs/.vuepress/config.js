@@ -6,9 +6,8 @@ const plugins = require('./config/plugins/')
 module.exports = {
   // dest: 'gb-pages',//打包目录
   base: '/blog/',
-  title: "好好学习,天天向上!",
-  description: '好好学习,天天向上!',
-  dest: "docs/.vuepress/dist",
+  title: "Toggle的学习笔记",
+  description: ' ',
   head: [
     ['link', {
       rel: 'icon',
@@ -57,11 +56,11 @@ module.exports = {
     lastUpdated: true,
     lastUpdated: '上次更新', // string | boolean
     // 作者
-    author: 'toggle',
+    author: 'Toggle',
     // 备案号
-    record: '京ICP备17067634号-1',
+    record: '京ICP备13068634号-1',
     // 项目开始时间
-    startYear: '2021',
+    startYear: '2020',
     //git地址
     repo: 'Winter0809/blog',
     // 如果你的文档不在仓库的根部

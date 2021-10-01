@@ -3,7 +3,7 @@ home: true
 heroImage: '/vuepress/topic.png'
 faceImage: '/vuepress/head.png'
 heroImageStyle: {
-  maxWidth: '680px',
+  maxWidth: '880px',
   width: '100%',
   display: block,
   margin: '14% auto -16% auto',
@@ -12,50 +12,45 @@ heroImageStyle: {
   borderRadius: '10px',
 }
 isShowTitleInHome: true
-actionText: '开启进阶之路'
+actionText: '快速开始 →'
 actionLink: /views/
 features:
 - title: 
-  details: 把所有的不快给昨天
+  details: 把不好全留在昨天
 - title: 
-  details: 把所有的努力给今天
+  details: 把努力都用在今天
 - title: 
-  details: 把所有的希望给明天
+  details: 把希望都留给明天
 footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
 
-<Clock/>
 
-::: tip 昨天 今天 明天,大后天
+::: tip 昨天 今天 明天
 
-问一问，人的一生能有几天 <br/>
-算一算，人的一生不过三天 <br/>
+再好的过去 <br/>
+都会成为历史 <br/>
 
-跑过去的是昨天 <br/>
-奔过来的是明天 <br/>
-正在走的是今天 <br/>
+再差的现在 <br/>
+也需要去珍惜 <br/>
 
-不要忘记昨天 <br/>
-认真计划明天 <br/>
-好好把握今天 <br/>
+再远的未来 <br/>
+也必须去努力 <br/>
 
-但愿到了明天 <br/>
-今天已成昨天 <br/>
-而你依然在我身边 <br/>
+任何人,都有遗憾<br/>
+最重要的其实不是结果 <br/>
+而是参与的过程 <br/>
 
 春梦无痕，秋夜缠绵 <br/>
 如歌岁月，似水流年 <br/>
 
-但愿到了明天 <br/>
-今天已成昨天 <br/>
-而我依然在你心间  
-
-:::
+忘记悲伤过往 <br/>
+珍惜所有 <br/>
+不留下遗憾  
 
 <!-- <CanvasNest color='0,23,255' zIndex='-2'></CanvasNest> -->
 
 <script>
-
+  
 </script>
 
 <style lang="stylus">
